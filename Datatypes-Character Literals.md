@@ -8,8 +8,10 @@ To write a Python program that prints the characters `'E'` and `'h'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
+```
 v = 'E'
 w = "h"
+```
  
 print(v)
 print(w)
